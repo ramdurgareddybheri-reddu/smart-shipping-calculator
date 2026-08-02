@@ -1,1 +1,2 @@
 # smart-shipping-calculator
+easy
