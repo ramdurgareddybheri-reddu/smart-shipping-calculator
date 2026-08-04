@@ -20,5 +20,5 @@ This project demonstrates the use of:
    - Item type (choose from G, PL, WD, PI, IT)
 2. Based on the item type, a cost multiplier is applied.
 3. The final shipping cost is calculated as:
-
+DOLLERS
 
